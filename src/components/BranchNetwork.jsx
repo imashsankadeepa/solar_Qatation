@@ -35,7 +35,7 @@ export function BranchNetwork() {
 
             <div className="w-20 h-20 bg-blue-500 rounded-full flex items-center justify-center border-4 border-white shadow-lg">
               <div className="text-center text-white leading-none">
-                <span className="block text-xs font-bold">REM</span>
+                <span className="block text-xs font-bold">VISTA</span>
                 <span className="block text-[8px]">SOLAR</span>
               </div>
             </div>
